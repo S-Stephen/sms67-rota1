@@ -48,5 +48,5 @@
   "license": "ISC",
   "directories": {
     "test": "test"
-  },
+  }
 }
